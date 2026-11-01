@@ -177,6 +177,4 @@ This project is open source. Feel free to use, modify, and distribute it.
 **Mohammad Al Amin**  
 GitHub: [MohammadAlAmin10](https://github.com/MohammadAlAmin10)
 
----
 
-*Happy tracking!*
